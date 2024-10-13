@@ -1,0 +1,14 @@
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/obj/Debug/net8.0/estrtuturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/obj/Debug/net8.0/estrtuturasCondicionais.AssemblyInfoInputs.cache
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/obj/Debug/net8.0/estrtuturasCondicionais.AssemblyInfo.cs
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/obj/Debug/net8.0/estrtuturasCondicionais.csproj.CoreCompileInputs.cache
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/bin/Debug/net8.0/estrtuturasCondicionais
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/bin/Debug/net8.0/estrtuturasCondicionais.deps.json
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/bin/Debug/net8.0/estrtuturasCondicionais.runtimeconfig.json
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/bin/Debug/net8.0/estrtuturasCondicionais.dll
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/bin/Debug/net8.0/estrtuturasCondicionais.pdb
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/obj/Debug/net8.0/estrtuturasCondicionais.dll
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/obj/Debug/net8.0/refint/estrtuturasCondicionais.dll
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/obj/Debug/net8.0/estrtuturasCondicionais.pdb
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/obj/Debug/net8.0/estrtuturasCondicionais.genruntimeconfig.cache
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/estrtuturasCondicionais/obj/Debug/net8.0/ref/estrtuturasCondicionais.dll

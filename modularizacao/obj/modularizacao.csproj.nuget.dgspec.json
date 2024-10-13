@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/modularizacao.csproj": {}
+  },
+  "projects": {
+    "/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/modularizacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/modularizacao.csproj",
+        "projectName": "modularizacao",
+        "projectPath": "/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/modularizacao.csproj",
+        "packagesPath": "/home/dig-mandela/.nuget/packages/",
+        "outputPath": "/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dig-mandela/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

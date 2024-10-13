@@ -1,0 +1,14 @@
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/bin/Debug/net8.0/operadoresLogicos
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/bin/Debug/net8.0/operadoresLogicos.deps.json
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/bin/Debug/net8.0/operadoresLogicos.runtimeconfig.json
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/bin/Debug/net8.0/operadoresLogicos.dll
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/bin/Debug/net8.0/operadoresLogicos.pdb
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/obj/Debug/net8.0/operadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/obj/Debug/net8.0/operadoresLogicos.AssemblyInfoInputs.cache
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/obj/Debug/net8.0/operadoresLogicos.AssemblyInfo.cs
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/obj/Debug/net8.0/operadoresLogicos.csproj.CoreCompileInputs.cache
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/obj/Debug/net8.0/operadoresLogicos.dll
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/obj/Debug/net8.0/refint/operadoresLogicos.dll
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/obj/Debug/net8.0/operadoresLogicos.pdb
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/obj/Debug/net8.0/operadoresLogicos.genruntimeconfig.cache
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/operadoresLogicos/obj/Debug/net8.0/ref/operadoresLogicos.dll

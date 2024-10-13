@@ -1,0 +1,14 @@
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/bin/Debug/net8.0/modularizacao
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/bin/Debug/net8.0/modularizacao.deps.json
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/bin/Debug/net8.0/modularizacao.runtimeconfig.json
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/bin/Debug/net8.0/modularizacao.dll
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/bin/Debug/net8.0/modularizacao.pdb
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/obj/Debug/net8.0/modularizacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/obj/Debug/net8.0/modularizacao.AssemblyInfoInputs.cache
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/obj/Debug/net8.0/modularizacao.AssemblyInfo.cs
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/obj/Debug/net8.0/modularizacao.csproj.CoreCompileInputs.cache
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/obj/Debug/net8.0/modularizacao.dll
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/obj/Debug/net8.0/refint/modularizacao.dll
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/obj/Debug/net8.0/modularizacao.pdb
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/obj/Debug/net8.0/modularizacao.genruntimeconfig.cache
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/modularizacao/obj/Debug/net8.0/ref/modularizacao.dll

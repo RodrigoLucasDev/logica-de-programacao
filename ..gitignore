@@ -1,0 +1,8 @@
+# Ignorar pastas bin e obj
+bin/
+obj/
+
+# Ignorar arquivos gerados automaticamente
+*.csproj
+*.user
+*.suo

@@ -1,0 +1,14 @@
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/bin/Debug/net8.0/lacosdeIteracao
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/bin/Debug/net8.0/lacosdeIteracao.deps.json
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/bin/Debug/net8.0/lacosdeIteracao.runtimeconfig.json
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/bin/Debug/net8.0/lacosdeIteracao.dll
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/bin/Debug/net8.0/lacosdeIteracao.pdb
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/obj/Debug/net8.0/lacosdeIteracao.GeneratedMSBuildEditorConfig.editorconfig
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/obj/Debug/net8.0/lacosdeIteracao.AssemblyInfoInputs.cache
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/obj/Debug/net8.0/lacosdeIteracao.AssemblyInfo.cs
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/obj/Debug/net8.0/lacosdeIteracao.csproj.CoreCompileInputs.cache
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/obj/Debug/net8.0/lacosdeIteracao.dll
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/obj/Debug/net8.0/refint/lacosdeIteracao.dll
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/obj/Debug/net8.0/lacosdeIteracao.pdb
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/obj/Debug/net8.0/lacosdeIteracao.genruntimeconfig.cache
+/home/dig-mandela/Área de Trabalho/Lógica de Programação/lacosdeIteracao/obj/Debug/net8.0/ref/lacosdeIteracao.dll
